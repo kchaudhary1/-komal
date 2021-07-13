@@ -1,0 +1,22 @@
+h1{color: white}
+h2{color: white}
+body{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: xx-large;
+    background-color: deeppink;
+
+}
+div {
+    text-align: center;
+}
+ul{
+    text-align: left;
+    color: lime;
+    display: inline-block;
+
+}
+
+
+
+
+
