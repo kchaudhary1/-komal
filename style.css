@@ -1,31 +1,22 @@
+h1{color: white}
+h2{color: white}
 body{
-    margin: 0;
-    padding: 0;
-    background: purple;
-    background-size: cover;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: xx-large;
+    background-color: deeppink;
+
 }
-.box{
-    width: 450px;
-    background: rgba(0,0,0,0.4);
-    padding: 40px;
+div {
     text-align: center;
-    margin: auto;
-    margin-top: 5%;
-    color: white;
-    font-family: 'Century Gothic', sans-serif;
 }
-.box-image{
-    border-radius:10%;
-    width: 200px;
-    height:200px;
+ul{
+    text-align: left;
+    color: lime;
+    display: inline-block;
 
 }
-.box h4{
-    font-size: 40px;
-    letter-spacing: 4px;
-    font-weight: 100;
-}
-.box p{
-    text-align: justify;
 
-}
+
+
+
+
